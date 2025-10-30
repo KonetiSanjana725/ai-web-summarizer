@@ -14,7 +14,7 @@ A Chrome extension that summarizes webpages instantly using Chrome’s built-in 
 4. Click **Load unpacked**  
 5. Select this folder
    
-#Preview
+#logo Preview
 
 
 <img src="icon.png" width="128" />
