@@ -12,8 +12,10 @@ A Chrome extension that summarizes webpages instantly using Chrome’s built-in 
 2. Go to `chrome://extensions`  
 3. Turn on **Developer Mode**  
 4. Click **Load unpacked**  
-5. Select this folder  
-
+5. Select this folder
+   
 #Preview
+
+
 <img src="icon.png" width="128" />
 
